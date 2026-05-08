@@ -34,8 +34,8 @@
 </p>
 
 [![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
-[![Download App](https://img.shields.io/badge/Download-SimlessPay-purple?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
-[![Download App](https://img.shields.io/badge/Download-MyUOG-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
+[![Download App](https://img.shields.io/badge/Download-SimlessPay-purple?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.newsimlesspay&pcampaignid=web_share)
+[![Download App](https://img.shields.io/badge/Download-Tetrad-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.wslremit&pcampaignid=web_share)
 
 
 ---
@@ -58,6 +58,6 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Improving MyUOG App
+- 🚀 Improving MyUOG, SimlessPay, Tetrad
 - 🤖 Building AI chatbot
 - 📱 React Native UI projects
