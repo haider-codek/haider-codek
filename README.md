@@ -9,7 +9,7 @@
 - 📱 React Native Developer
 - 🧪 QA Automation (Appium + Jest)
 - 🎓 BS IT — University of Gujrat
-- 🚀 Creator of MyUOG App
+- 🚀 Creator of MyUOG & MyVu Study App
 - 🌍 Based in Pakistan
 
 ---
@@ -24,18 +24,20 @@
 
 ---
 
-## 📲 MyUOG | SimlessPay | Tetrad
+## 📲 MyUOG | SimlessPay | Tetrad | MyVU Study
 
 <p align="center">
   <img src="https://play-lh.googleusercontent.com/-kxhx5rwrNPcVtaKxbBu4WblPevw6TCorG-X1twTgWXLiLfsrPNfGb4czqd2_3gIsU_fg8mV89Yn3UzCw9Ei_ZI=w480-h960-rw" width="220"/>
   <img src="https://play-lh.googleusercontent.com/2O86Q8O5NjcACwZoMLEQ7xj29-8v0PkSHeMeJ5hRjiqV_1lGxdOcy4hGWdYy0yHI1PI=w240-h480-rw" width="220"/>
   <img src="https://play-lh.googleusercontent.com/a7jF3ui6Kd_bHydlOqiL4MFyv9kaSlsly6Ef-CFb9RCukVUfYEMCA5CBii4u1t4wPH8=w240-h480-rw" width="220"/>
+  <img src="https://play-lh.googleusercontent.com/oZO2SIXv8rrG12O97x3QlqWeGqval2yf8uhKSJ6Z1IQzNJ47jmdB7SshhYVqR6oCMFh-XNUe9rVjS8bUId8=w480-h960-rw" width="220"/>
   
 </p>
 
 [![Download App](https://img.shields.io/badge/Download-MyUOG-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myuoggpa)
 [![Download App](https://img.shields.io/badge/Download-SimlessPay-purple?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.newsimlesspay&pcampaignid=web_share)
 [![Download App](https://img.shields.io/badge/Download-Tetrad-blue?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.wslremit&pcampaignid=web_share)
+[![Download App](https://img.shields.io/badge/Download-MyVUSTUDY-pink?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=com.myvustudy)
 
 
 ---
@@ -58,6 +60,6 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Improving MyUOG, SimlessPay, Tetrad
+- 🚀 Improving MyUOG, SimlessPay, Tetrad, MyVU
 - 🤖 Building AI chatbot
 - 📱 React Native UI projects
