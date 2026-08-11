@@ -15,11 +15,7 @@
 
 ## 🛠️ Tech Stack
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)
-![Appium](https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium)
+<p align="left"> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/Appium-EE376D?style=for-the-badge&logo=appium&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> </p>
 
 ---
 
@@ -51,3 +47,6 @@
 - 🚀 Improving SimlessPay, Tetrad
 - 🤖 Building AI chatbot
 - 📱 React Native UI projects
+
+---
+<p align="center"> <i>Building useful apps, one release at a time. 🚀</i> </p>
