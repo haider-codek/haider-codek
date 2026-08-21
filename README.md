@@ -29,7 +29,7 @@
 
 ## 🔥 Currently Working On
 
-- 🚀 Improving SimlessPay, Tetrad
+- 🚀 Learning
 - 🤖 Building AI chatbot
 - 📱 React Native UI projects
 
